@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "MacBook Pro 13\"",
+      "year": 2020,
+      "screen": "13\"",
+      "cpu": "M1",
+      "price": 3500
+    },
+    {
+      "id": 1,
+      "name": "MacBook Pro 13\"",
+      "year":  2012,
+      "screen": "13\"",
+      "cpu": "Intel i5",
+      "price": 1200
+    }
+  ]
+}
